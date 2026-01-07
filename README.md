@@ -29,7 +29,9 @@ The following analyses were carried out in this project:
 # 📁 Project Structure
 
 ├── Sales_Dataset.csv
+
 ├── Sales_EDA.ipynb
+
 └── README.md
 
 # 📈 Key Learnings
